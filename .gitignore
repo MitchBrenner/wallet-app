@@ -1,0 +1,17 @@
+# Node backend
+backend/node_modules
+backend/.env
+
+# React Native mobile app
+mobile/node_modules
+mobile/.env
+mobile/.expo/
+mobile/.expo-shared/
+mobile/android/app/build/
+mobile/ios/Pods/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

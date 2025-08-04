@@ -22,3 +22,5 @@ app.use((req, res, next) => {
   next(); // this calls the function of the endpoint
 });
 ```
+
+- upstash redis for rate limiting

@@ -8,6 +8,7 @@
 - use dotenv package to access file check [server.js](./backend/server.js)
 
 - using neon and postgres for db
+  - noen hosts postgress db in cloud
 - not using an ORM using raw sql
 
 - clerk for auth

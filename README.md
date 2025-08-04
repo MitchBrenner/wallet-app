@@ -24,3 +24,4 @@ app.use((req, res, next) => {
 ```
 
 - upstash redis for rate limiting
+  - using hard coded id for rate limiting, if in prod update to use userId or ip address
